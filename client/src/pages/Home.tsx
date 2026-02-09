@@ -41,7 +41,7 @@ export default function Home() {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center gap-3">
             <img
-              src="/DARK_LOGO_TES.png"
+              src="/__manus__/ORANGE_LOGO_TES.png"
               alt="TES 4.0"
               className="h-8 md:h-10"
             />
